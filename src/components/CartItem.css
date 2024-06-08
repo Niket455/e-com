@@ -1,0 +1,32 @@
+.cart-items {
+  padding: 0em 8em;
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+}
+.cart-single--image {
+  height: 3em;
+  margin-left: -6em;
+}
+
+.cart-image--name {
+  display: flex;
+  flex-direction: row;
+}
+
+.cart-image--name p {
+  font-size: 0.8em;
+}
+
+.color-div {
+  margin-top: -1rem;
+  display: flex;
+  flex-direction: row;
+}
+
+.color-style {
+  width: 0.7rem;
+  border-radius: 50%;
+  height: 0.7rem;
+  margin: 4px;
+}

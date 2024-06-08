@@ -1,0 +1,25 @@
+.btnStyle {
+  position: relative;
+  height: 1rem;
+  width: 1rem;
+  border-radius: 50%;
+  border-style: none;
+  margin: 3px;
+  outline: none;
+  opacity: 70%;
+
+  &:hover {
+    opacity: 1;
+  }
+}
+
+.btnStyle:active {
+  opacity: 100%;
+}
+
+.color-check {
+  color: white;
+  font-size: 0.7rem;
+  position: absolute;
+  margin: -6px;
+}

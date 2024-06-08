@@ -1,0 +1,17 @@
+.all-spimages {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.box-image {
+  max-height: 10rem;
+  width: 10rem;
+  padding: 5px;
+}
+
+.big-image {
+  height: 15rem;
+  width: 25rem;
+  padding: 5px;
+}

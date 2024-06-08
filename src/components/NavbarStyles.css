@@ -1,0 +1,55 @@
+.NavbarItems {
+  background-color: #f6f2f2;
+  display: flex;
+  justify-content: space-between;
+  height: 3.5rem;
+  padding: 0.1rem 5rem;
+}
+
+.nav-menu {
+  display: grid;
+  grid-template-columns: repeat(6, auto);
+  grid-gap: 1.4em;
+  list-style: none;
+  padding-top: 1.3rem;
+}
+
+.NavbarItems h1 {
+  font-size: 26px;
+  font-family: "Alike", serif;
+  margin-top: 0.8rem;
+}
+
+.nav-menu * {
+  text-decoration: none;
+  color: #545454;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 1.4px;
+}
+
+.shopping-cart {
+  position: relative;
+}
+
+.cart-trolley {
+  position: relative;
+  font-size: 1.2rem;
+  margin-top: -3.9px;
+}
+
+.cart-total--items {
+  position: absolute;
+  font-size: 0.6rem;
+  display: gird;
+  letter-spacing: -1px;
+  place-items: center;
+  margin-top: -0.9em;
+  margin-left: -0.4rem;
+  background-color: white;
+  border-radius: 50%;
+  height: 14px;
+  width: 14px;
+  color: black;
+  text-align: center;
+}

@@ -1,0 +1,43 @@
+.single-card {
+  border: none;
+  margin: 1rem 1rem;
+  margin-bottom: 3.4rem;
+  height: 19rem;
+  width: 20rem;
+  background-color: white;
+}
+
+.img {
+  max-height: 14rem;
+  width: 20rem;
+  padding: 1rem;
+}
+
+.caption {
+  background-color: #f6f2f2;
+  font-size: 0.8rem;
+  color: black;
+  padding: 2px 5px;
+  text-align: center;
+  padding-left: 1rem;
+
+  position: absolute;
+  margin-top: -13rem;
+}
+
+.card-data {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 3px 5px;
+}
+
+.card-data h3 {
+  color: black;
+  font-size: 1.6rem;
+  font-weight: 500;
+}
+
+.card-data p {
+  color: black;
+}

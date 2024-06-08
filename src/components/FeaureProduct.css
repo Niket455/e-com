@@ -1,0 +1,22 @@
+.fp-container {
+  background-color: #f6f2f2;
+  padding: 0 11rem;
+}
+
+.intro-data {
+  font-size: 1.3rem;
+
+  padding-left: 1rem;
+}
+
+.common-heading {
+  font-size: 3rem;
+  font-weight: 500;
+  padding-bottom: 2rem;
+  padding-left: 1rem;
+}
+
+.products {
+  display: flex;
+  justify-content: space-around;
+}

@@ -1,0 +1,25 @@
+.sort-section {
+  display: flex;
+  justify-content: space-between;
+
+  max-width: 94%;
+  padding-top: 1rem;
+}
+.gridfill-button {
+  font-size: 0.8rem;
+  margin-left: 1rem;
+  border-color: black;
+  border-radius: 4px;
+}
+.gridfill-icons {
+  height: 0.8rem;
+}
+
+.gridfill-button:hover {
+  background-color: black;
+  color: white;
+}
+
+.gridfill-button:active {
+  background-color: black;
+}

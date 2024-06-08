@@ -1,0 +1,22 @@
+.cart_heading {
+  margin: 1em 5em 0em 5em;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-direction: row;
+}
+
+hr {
+  margin-top: -0.5rem;
+}
+
+.order-total--amount {
+  padding-left: 74%;
+}
+
+.cart-two-button {
+  margin: 2em 20%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}

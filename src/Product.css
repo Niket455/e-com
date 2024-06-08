@@ -1,0 +1,8 @@
+.product-container {
+  display: grid;
+  grid-template-columns: 0.2fr 1fr;
+}
+
+.all-products {
+  padding: 0rem 3.4rem;
+}

@@ -1,0 +1,50 @@
+.services {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  margin: 5rem;
+}
+
+.left-box {
+  background-color: #f6f2f2;
+  margin-right: 3rem;
+  height: 11rem;
+  border-radius: 1rem;
+  padding: 45px 10px;
+}
+
+.right-box {
+  background-color: #f6f2f2;
+  margin-left: 3rem;
+  height: 11rem;
+  border-radius: 1rem;
+  padding: 45px 10px;
+}
+
+.box1 {
+  display: flex;
+  background-color: #f6f2f2;
+  padding: 18px 10px;
+  border-radius: 1rem;
+}
+.box2 {
+  margin-top: 12px;
+  display: flex;
+  background-color: #f6f2f2;
+  padding: 18px 10px;
+  border-radius: 1rem;
+}
+
+.icons {
+  font-size: 2.4rem;
+  background-color: white;
+  border-radius: 50%;
+  padding: 5px;
+  color: #545454;
+}
+
+.services p {
+  font-size: 1.2rem;
+  font-weight: 5200;
+}

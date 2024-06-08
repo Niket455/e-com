@@ -1,0 +1,12 @@
+.gridsection-style {
+  padding: 3rem 0;
+}
+
+.gridcontainer-style {
+  width: 95%;
+
+  display: grid;
+
+  grid-template-columns: 1fr 1fr 1fr;
+  background-color: #f6f2f2;
+}
